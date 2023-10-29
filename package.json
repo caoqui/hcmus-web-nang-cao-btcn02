@@ -1,7 +1,7 @@
 {
   "name": "web-btcn02",
   "version": "0.1.0",
-  "homepage": "https://caoqui.github.io/hcmus-web-nang-cao-memes",
+  "homepage": "https://caoqui.github.io/hcmus-web-nang-cao-btcn02/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
