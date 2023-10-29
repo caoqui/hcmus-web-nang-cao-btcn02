@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/hcmus-web-nang-cao-memes/static/css/main.073c9b0a.css",
-    "main.js": "/hcmus-web-nang-cao-memes/static/js/main.70a607f3.js",
-    "static/js/787.596d71fb.chunk.js": "/hcmus-web-nang-cao-memes/static/js/787.596d71fb.chunk.js",
-    "index.html": "/hcmus-web-nang-cao-memes/index.html",
-    "main.073c9b0a.css.map": "/hcmus-web-nang-cao-memes/static/css/main.073c9b0a.css.map",
-    "main.70a607f3.js.map": "/hcmus-web-nang-cao-memes/static/js/main.70a607f3.js.map",
-    "787.596d71fb.chunk.js.map": "/hcmus-web-nang-cao-memes/static/js/787.596d71fb.chunk.js.map"
+    "main.css": "/hcmus-web-nang-cao-btcn02/static/css/main.073c9b0a.css",
+    "main.js": "/hcmus-web-nang-cao-btcn02/static/js/main.04ac3577.js",
+    "static/js/787.596d71fb.chunk.js": "/hcmus-web-nang-cao-btcn02/static/js/787.596d71fb.chunk.js",
+    "index.html": "/hcmus-web-nang-cao-btcn02/index.html",
+    "main.073c9b0a.css.map": "/hcmus-web-nang-cao-btcn02/static/css/main.073c9b0a.css.map",
+    "main.04ac3577.js.map": "/hcmus-web-nang-cao-btcn02/static/js/main.04ac3577.js.map",
+    "787.596d71fb.chunk.js.map": "/hcmus-web-nang-cao-btcn02/static/js/787.596d71fb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.073c9b0a.css",
-    "static/js/main.70a607f3.js"
+    "static/js/main.04ac3577.js"
   ]
 }
